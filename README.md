@@ -1,15 +1,13 @@
 # About Me:
 
-<pre lang="csharp">
-public class shahabKhan
+<pre lang="csharp"> public class shahabKhan
 {
     public string WorkingOn = "Building scalable web applications using .NET Core and Angular, with a focus on performance, clean architecture, and maintainability.";
     public string[] LookingToCollaborateOn = [ "Dev tools", "APIs", "Enterprise solutions" ]; 
     public string[] Learning = [ "High-performance distributed systems", "Frameworks for real-world scalability" ]; 
     public string[] AskMeAbout = [ ".NET Core", "APIs", "Clean code", "System design" ]; 
     public string FunFact = "I enjoy breaking down complex problems into simple, elegant solutions.";
-}
- </pre>
+} </pre>
 
 
 ## 🌐 Socials:
@@ -51,5 +49,3 @@ public class shahabKhan
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shahab-a-k&limit=5&theme=one_dark_pro&hide_border=true&combine_all_yearly_contributions=true)
 -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
