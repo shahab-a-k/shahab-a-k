@@ -33,14 +33,14 @@
 -->
 
 <a href="https://github.com/shahab-a-k">
-  <img height ="160em" align="center" src="https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=one_dark_pro&hide_border=true" />
+  <img height ="160em" align="center" src="https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/shahab-a-k">
-  <img height ="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height ="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shahab-a-k&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shahab-a-k&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Wisdom Corner
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
