@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 
 <pre lang="csharp"> public class khan
 {
@@ -10,7 +10,7 @@
 } </pre>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khan-shahab) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NotSoVibranium) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahab_a_k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Themrkrazzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahab.a.k@outlook.com) [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahab_a_k)
 
 ## 💻 Tech Stack
@@ -48,7 +48,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=one_dark_pro&hide_border=true)<br/>
