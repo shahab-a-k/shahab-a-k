@@ -1,6 +1,6 @@
 # About Me:
 
-<pre lang="csharp"> public class shahabKhan
+<pre lang="csharp"> public class khan
 {
     public string WorkingOn = "Building scalable web applications using .NET Core and Angular, with a focus on performance, clean architecture, and maintainability.";
     public string[] LookingToCollaborateOn = [ "Dev tools", "APIs", "Enterprise solutions" ]; 
