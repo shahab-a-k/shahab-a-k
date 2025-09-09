@@ -10,8 +10,38 @@
 } </pre>
 
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khan-shahab) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NotSoVibranium) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahab_a_k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Themrkrazzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahab.a.k@outlook.com) [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahab_a_k)
+## 📊 GitHub Stats
+<!--
+![](https://github-readme-stats.vercel.app/api?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
+
+<!--
+<a href="https://github.com/shahab-a-k">
+  <img height ="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" alt="Shahab Khan's GitHub Stats" />
+</a> &nbsp;
+
+<a href="https://github.com/shahab-a-k">
+  <img height ="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&hide=ejs,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
+</a> &nbsp;
+-->
+
+<a href="https://github.com/shahab-a-k">
+  <img height="160" align="center" src="https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=dark&hide_border=true" style="border:0;" />
+</a>&nbsp;
+<a href="https://github.com/shahab-a-k">
+  <img height ="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</a>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahab-a-k&theme=gruvbox&row=1&column=8&no-frame=true&margin-w=5&rank=-C,-?)](https://github.com/shahab-a-k/github-profile-trophy)
+
+## 🪪 Portfolio
+<!--[![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com)-->
+<a href="https://portfolio.khan-cloud.com">
+  <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
+</a>
 
 ## 💻 Tech Stack
 
@@ -48,38 +78,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 
-## 📊 GitHub Stats
-<!--
-![](https://github-readme-stats.vercel.app/api?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
-
-<!--
-<a href="https://github.com/shahab-a-k">
-  <img height ="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" alt="Shahab Khan's GitHub Stats" />
-</a> &nbsp;
-
-<a href="https://github.com/shahab-a-k">
-  <img height ="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&hide=ejs,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
-</a> &nbsp;
--->
-
-<a href="https://github.com/shahab-a-k">
-  <img height="160" align="center" src="https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=dark&hide_border=true" style="border:0;" />
-</a>&nbsp;
-<a href="https://github.com/shahab-a-k">
-  <img height ="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-a-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</a>
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shahab-a-k&theme=gruvbox&row=1&column=8&no-frame=true&margin-w=5&rank=-C,-?)](https://github.com/shahab-a-k/github-profile-trophy)
-
-## 🪪 Portfolio
-<!--[![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com)-->
-<a href="https://portfolio.khan-cloud.com">
-  <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
-</a>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khan-shahab) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NotSoVibranium) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahab_a_k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Themrkrazzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahab.a.k@outlook.com) [![X.com](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahab_a_k)
 
 
 <!--
