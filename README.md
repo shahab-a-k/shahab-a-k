@@ -39,9 +39,10 @@
 
 ## 🪪 Portfolio
 <!--[![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com)-->
-<a href="https://portfolio.khan-cloud.com">
+<a href="https://medium.com/@shahab.a.k/prompt-injection-the-sql-injection-of-ai-8e9600e0411e">
   <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
 </a>
+
 
 ## 💻 Tech Stack
 
