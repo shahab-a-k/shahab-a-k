@@ -40,7 +40,7 @@
 ## 🪪 Portfolio
 <!-- [![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com) -->
 <a href="https://portfolio.khan-cloud.com">
-  <img height="160em" align="center" src="https://github.com/shahab-a-k/Portfolio/blob/main/assets/preview.png" />
+  <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
 </a>
 
 
