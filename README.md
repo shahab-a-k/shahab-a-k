@@ -38,10 +38,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahab-a-k&theme=gruvbox&row=1&column=8&no-frame=true&margin-w=5&rank=-C,-?)](https://github.com/shahab-a-k/github-profile-trophy)
 
 ## 🪪 Portfolio
-<!--[![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com)-->
-<a href="https://medium.com/@shahab.a.k/prompt-injection-the-sql-injection-of-ai-8e9600e0411e">
+[![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com)
+<!-- <a href="https://portfolio.khan-cloud.com">
   <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
-</a>
+</a> -->
 
 
 ## 💻 Tech Stack
