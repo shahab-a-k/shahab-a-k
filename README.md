@@ -40,7 +40,7 @@
 ## 🪪 Portfolio
 <!--[![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com)-->
 <a href="https://portfolio.khan-cloud.com">
-  <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.pn" />
+  <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
 </a>
 
 ## 💻 Tech Stack
