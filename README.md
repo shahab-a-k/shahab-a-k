@@ -9,7 +9,7 @@
     public string FunFact = "I enjoy breaking down complex problems into simple, elegant solutions.";
 } </pre>
 
-
+<!--
 ## 📊 GitHub Stats
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -42,7 +42,7 @@
 <a href="https://portfolio.khan-cloud.com">
   <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
 </a>
-
+-->
 
 ## 💻 Tech Stack
 
