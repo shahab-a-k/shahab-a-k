@@ -11,6 +11,7 @@
 
 <!--
 ## 📊 GitHub Stats
+-->
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=shahab-a-k&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=one_dark_pro&hide_border=true)<br/>
@@ -27,6 +28,7 @@
 </a> &nbsp;
 -->
 
+<!--
 <a href="https://github.com/shahab-a-k">
   <img height="160" align="center" src="https://nirzak-streak-stats.vercel.app/?user=shahab-a-k&theme=dark&hide_border=true" style="border:0;" />
 </a>&nbsp;
@@ -36,13 +38,13 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahab-a-k&theme=gruvbox&row=1&column=8&no-frame=true&margin-w=5&rank=-C,-?)](https://github.com/shahab-a-k/github-profile-trophy)
+-->
 
 ## 🪪 Portfolio
 <!-- [![Portfolio Preview](https://portfolio.khan-cloud.com/assets/preview.png)](https://portfolio.khan-cloud.com) -->
 <a href="https://portfolio.khan-cloud.com">
   <img height="160em" align="center" src="https://portfolio.khan-cloud.com/assets/preview.png" />
 </a>
--->
 
 ## 💻 Tech Stack
 
